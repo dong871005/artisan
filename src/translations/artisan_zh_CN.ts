@@ -58,7 +58,7 @@
     <message>
         <location filename="../artisanlib/main.py" line="5943"/>
         <source>Weight Loss</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">重量减少量</translation>
     </message>
     <message>
         <location filename="../artisanlib/main.py" line="5947"/>
